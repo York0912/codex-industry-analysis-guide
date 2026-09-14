@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="504pt" viewBox="0 0 864 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-14T07:17:28.704604</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 864 504 
+L 864 0 
+L 0 0 
+z
+" style="fill: #fbfaf7"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 55.6416 288.93312 
+L 264.0384 288.93312 
+Q 278.0352 288.93312 278.0352 283.12704 
+L 278.0352 157.97376 
+Q 278.0352 152.16768 264.0384 152.16768 
+L 55.6416 152.16768 
+Q 41.6448 152.16768 41.6448 157.97376 
+L 41.6448 283.12704 
+Q 41.6448 288.93312 55.6416 288.93312 
+z
+" clip-path="url(#pd9959067ca)" style="fill: #ffffff; stroke: #d6dfde; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 323.9136 288.93312 
+L 532.3104 288.93312 
+Q 546.3072 288.93312 546.3072 283.12704 
+L 546.3072 157.97376 
+Q 546.3072 152.16768 532.3104 152.16768 
+L 323.9136 152.16768 
+Q 309.9168 152.16768 309.9168 157.97376 
+L 309.9168 283.12704 
+Q 309.9168 288.93312 323.9136 288.93312 
+z
+" clip-path="url(#pd9959067ca)" style="fill: #ffffff; stroke: #d6dfde; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 592.1856 288.93312 
+L 800.5824 288.93312 
+Q 814.5792 288.93312 814.5792 283.12704 
+L 814.5792 157.97376 
+Q 814.5792 152.16768 800.5824 152.16768 
+L 592.1856 152.16768 
+Q 578.1888 152.16768 578.1888 157.97376 
+L 578.1888 283.12704 
+Q 578.1888 288.93312 592.1856 288.93312 
+z
+" clip-path="url(#pd9959067ca)" style="fill: #ffffff; stroke: #d6dfde; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 278.478105 217.3248 
+Q 295.917317 217.3248 311.679477 217.3248 
+" clip-path="url(#pd9959067ca)" style="fill: none; stroke: #5d6d77; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 305.679477 214.3248 
+L 311.679477 217.3248 
+L 305.679477 220.3248 
+z
+" clip-path="url(#pd9959067ca)" style="fill: #5d6d77; stroke: #5d6d77; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 542.86614 217.3248 
+Q 562.251321 217.3248 579.959452 217.3248 
+" clip-path="url(#pd9959067ca)" style="fill: none; stroke: #5d6d77; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 573.959452 214.3248 
+L 579.959452 217.3248 
+L 573.959452 220.3248 
+z
+" clip-path="url(#pd9959067ca)" style="fill: #5d6d77; stroke: #5d6d77; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 172.2816 427.63392 
+L 691.7184 427.63392 
+Q 705.7152 427.63392 705.7152 421.82784 
+L 705.7152 348.28416 
+Q 705.7152 342.47808 691.7184 342.47808 
+L 172.2816 342.47808 
+Q 158.2848 342.47808 158.2848 348.28416 
+L 158.2848 421.82784 
+Q 158.2848 427.63392 172.2816 427.63392 
+z
+" clip-path="url(#pd9959067ca)" style="fill: #ffffff; stroke: #d6dfde; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #147d78" x="70.416" y="187.088563" transform="rotate(-0 70.416 187.088563)">上游</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(70.416 238.90788)">原材料与零部件</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(70.416 258.304726)">查：成本、供应、替代</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #147d78" x="338.688" y="187.047" transform="rotate(-0 338.688 187.047)">制造</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(338.688 238.924208)">设计、制造与品牌</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(338.688 258.283241)">查：价格、良率、投入</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #147d78" x="606.96" y="187.156375" transform="rotate(-0 606.96 187.156375)">销售与服务</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(606.96 238.983505)">渠道、交付与售后</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(606.96 258.294413)">查：库存、回款、费用</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #cb7b3b" x="187.056" y="377.412087" transform="rotate(-0 187.056 377.412087)">最终需求</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #192f3d" x="187.056" y="396.995213" transform="rotate(-0 187.056 396.995213)">新增购买 · 更新换代 · 产品升级 · 出口市场</text>
+   </g>
+  </g>
+  <g id="text_9">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #192f3d" x="51.84" y="35.28" transform="rotate(-0 51.84 35.28)">沿着交易关系，研究利润怎样形成</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6d77" x="51.84" y="65.52" transform="rotate(-0 51.84 65.52)">家电产业链示意｜箭头表示业务关系，利润份额需要另查数据。</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6d77" x="51.84" y="483.84" transform="rotate(-0 51.84 483.84)">方法示意｜产品、地区与渠道边界随实际研究对象调整。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd9959067ca">
+   <rect x="43.2" y="110.88" width="777.6" height="322.56"/>
+  </clipPath>
+ </defs>
+</svg>

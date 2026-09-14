@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="504pt" viewBox="0 0 864 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-14T07:17:28.601603</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 864 504 
+L 864 0 
+L 0 0 
+z
+" style="fill: #fbfaf7"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 172.8 372.96 
+L 432 372.96 
+L 432 126 
+L 172.8 126 
+z
+" style="fill: #fbfaf7"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 172.8 372.96 
+L 172.8 126 
+" clip-path="url(#p89f4caa351)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m8898c6fe85" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8898c6fe85" x="172.8" y="372.96" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="172.8" y="389.704141" transform="rotate(-0 172.8 389.704141)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 249.035294 372.96 
+L 249.035294 126 
+" clip-path="url(#p89f4caa351)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m8898c6fe85" x="249.035294" y="372.96" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="249.035294" y="389.704141" transform="rotate(-0 249.035294 389.704141)">10000</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 325.270588 372.96 
+L 325.270588 126 
+" clip-path="url(#p89f4caa351)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m8898c6fe85" x="325.270588" y="372.96" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="325.270588" y="389.704141" transform="rotate(-0 325.270588 389.704141)">20000</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 401.505882 372.96 
+L 401.505882 126 
+" clip-path="url(#p89f4caa351)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8898c6fe85" x="401.505882" y="372.96" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="401.505882" y="389.704141" transform="rotate(-0 401.505882 389.704141)">30000</text>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #5d6d77" x="302.4" y="406.853281" transform="rotate(-0 302.4 406.853281)">产量（万台）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="169.3" y="177.658638" transform="rotate(-0 169.3 177.658638)">家用电冰箱</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="169.3" y="331.3973" transform="rotate(-0 169.3 331.3973)">房间空气调节器</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 172.8 137.225455 
+L 256.082485 137.225455 
+L 256.082485 207.961196 
+L 172.8 207.961196 
+z
+" clip-path="url(#p89f4caa351)" style="fill: #147d78"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 172.8 290.998804 
+L 376.329176 290.998804 
+L 376.329176 361.734545 
+L 172.8 361.734545 
+z
+" clip-path="url(#p89f4caa351)" style="fill: #569c98"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(259.894249 169.679184)">10,924.4</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(259.894249 181.651997)">同比 +1.6%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(380.140941 323.452534)">26,697.5</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #192f3d" transform="translate(380.140941 335.425347)">同比 +0.7%</text>
+   </g>
+  </g>
+  <g id="text_10">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #192f3d" x="51.84" y="35.28" transform="rotate(-0 51.84 35.28)">生产与零售，各自记录</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6d77" x="51.84" y="65.52" transform="rotate(-0 51.84 65.52)">2025 年公开统计｜产品数量与品类金额分开解释。</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 15px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #192f3d" x="535.68" y="141.12" transform="rotate(-0 535.68 141.12)">家用电器和音像器材类</text>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 38px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #cb7b3b" x="535.68" y="196.56" transform="rotate(-0 535.68 196.56)">+11.0%</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #192f3d" x="535.68" y="257.04" transform="rotate(-0 535.68 257.04)">限额以上单位零售额同比</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #5d6d77" transform="translate(535.68 290.384531)">生产端：特定产品、数量</text>
+   <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #5d6d77" transform="translate(535.68 311.516992)">零售端：较宽品类、金额</text>
+   <text style="font-size: 11px; font-family: 'Microsoft YaHei'; fill: #5d6d77" transform="translate(535.68 332.64)">后续核验：品类、价格、库存、出口</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6d77" x="86.4" y="428.4" transform="rotate(-0 86.4 428.4)">生产端口径：规模以上工业主要产品产量。</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6d77" x="51.84" y="483.84" transform="rotate(-0 51.84 483.84)">来源：国家统计局《2025年国民经济和社会发展统计公报》表3、国内贸易部分。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p89f4caa351">
+   <rect x="172.8" y="126" width="259.2" height="246.96"/>
+  </clipPath>
+ </defs>
+</svg>

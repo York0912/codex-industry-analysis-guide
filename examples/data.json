@@ -1,0 +1,146 @@
+{
+  "notice": "公开数据与教学假设分开记录；公司为虚构示例。",
+  "official": [
+    {
+      "id": "E001",
+      "indicator": "家用电冰箱产量",
+      "period": 2025,
+      "value": 10924.4,
+      "unit": "万台",
+      "yoy_pct": 1.6,
+      "scope": "规模以上工业主要产品产量",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "locator": "表3"
+    },
+    {
+      "id": "E002",
+      "indicator": "房间空气调节器产量",
+      "period": 2025,
+      "value": 26697.5,
+      "unit": "万台",
+      "yoy_pct": 0.7,
+      "scope": "规模以上工业主要产品产量",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "locator": "表3"
+    },
+    {
+      "id": "E003",
+      "indicator": "家用电器和音像器材类零售额同比",
+      "period": 2025,
+      "value": 11.0,
+      "unit": "%",
+      "scope": "限额以上单位商品零售额",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "locator": "国内贸易部分"
+    },
+    {
+      "id": "E004",
+      "indicator": "全国居民平均每百户空调拥有量",
+      "period": 2025,
+      "value": 161.8,
+      "unit": "台/百户",
+      "scope": "全国居民家庭",
+      "url": "https://www.stats.gov.cn/sj/sjjd/202606/t20260604_1963891.html",
+      "locator": "四、居民生活质量显著提升；（一）耐用消费品加快升级"
+    },
+    {
+      "id": "E005",
+      "indicator": "全国居民平均每百户电冰箱拥有量",
+      "period": 2025,
+      "value": 106.6,
+      "unit": "台/百户",
+      "scope": "全国居民家庭",
+      "url": "https://www.stats.gov.cn/sj/sjjd/202606/t20260604_1963891.html",
+      "locator": "四、居民生活质量显著提升；（一）耐用消费品加快升级"
+    }
+  ],
+  "simulation": {
+    "base_volume_wan": 100,
+    "base_price_yuan": 3000,
+    "base_net_margin": 0.06,
+    "scenarios": [
+      {
+        "name": "保守",
+        "volume_change": -0.05,
+        "price_change": -0.03,
+        "net_margin": 0.05,
+        "forward_pe": 10.0,
+        "revenue_yi": "27.6450",
+        "profit_yi": "1.382250",
+        "conditional_equity_value_yi": "13.822500"
+      },
+      {
+        "name": "基准",
+        "volume_change": 0.05,
+        "price_change": 0.0,
+        "net_margin": 0.065,
+        "forward_pe": 15.0,
+        "revenue_yi": "31.50",
+        "profit_yi": "2.04750",
+        "conditional_equity_value_yi": "30.71250"
+      },
+      {
+        "name": "乐观",
+        "volume_change": 0.1,
+        "price_change": 0.02,
+        "net_margin": 0.075,
+        "forward_pe": 20.0,
+        "revenue_yi": "33.6600",
+        "profit_yi": "2.5245000",
+        "conditional_equity_value_yi": "50.4900000"
+      }
+    ],
+    "sensitivity_revenue_yi": "31.5",
+    "margins": [
+      "0.05",
+      "0.06",
+      "0.065",
+      "0.07",
+      "0.08"
+    ],
+    "forward_pes": [
+      10,
+      12,
+      15,
+      18,
+      20
+    ],
+    "sensitivity_yi": [
+      [
+        "15.750",
+        "18.900",
+        "23.625",
+        "28.350",
+        "31.500"
+      ],
+      [
+        "18.900",
+        "22.680",
+        "28.350",
+        "34.020",
+        "37.800"
+      ],
+      [
+        "20.4750",
+        "24.5700",
+        "30.7125",
+        "36.8550",
+        "40.9500"
+      ],
+      [
+        "22.050",
+        "26.460",
+        "33.075",
+        "39.690",
+        "44.100"
+      ],
+      [
+        "25.200",
+        "30.240",
+        "37.800",
+        "45.360",
+        "50.400"
+      ]
+    ]
+  }
+}

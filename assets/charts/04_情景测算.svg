@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="504pt" viewBox="0 0 864 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-14T07:17:28.814605</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 864 504 
+L 864 0 
+L 0 0 
+z
+" style="fill: #fbfaf7"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 86.4 362.88 
+L 786.24 362.88 
+L 786.24 115.92 
+L 86.4 115.92 
+z
+" style="fill: #fbfaf7"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mc93ee03901" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc93ee03901" x="181.832727" y="362.88" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="181.832727" y="379.9525" transform="rotate(-0 181.832727 379.9525)">保守情景</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mc93ee03901" x="436.32" y="362.88" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="436.32" y="379.9525" transform="rotate(-0 436.32 379.9525)">基准情景</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mc93ee03901" x="690.807273" y="362.88" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="690.807273" y="379.905625" transform="rotate(-0 690.807273 379.905625)">乐观情景</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <path d="M 86.4 362.88 
+L 786.24 362.88 
+" clip-path="url(#pcd49b1f070)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5">
+      <defs>
+       <path id="m44927cdf66" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m44927cdf66" x="86.4" y="362.88" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="79.4" y="367.75207" transform="rotate(-0 79.4 367.75207)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <path d="M 86.4 321.72 
+L 786.24 321.72 
+" clip-path="url(#pcd49b1f070)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m44927cdf66" x="86.4" y="321.72" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="79.4" y="326.59207" transform="rotate(-0 79.4 326.59207)">10</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <path d="M 86.4 280.56 
+L 786.24 280.56 
+" clip-path="url(#pcd49b1f070)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m44927cdf66" x="86.4" y="280.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="79.4" y="285.43207" transform="rotate(-0 79.4 285.43207)">20</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <path d="M 86.4 239.4 
+L 786.24 239.4 
+" clip-path="url(#pcd49b1f070)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m44927cdf66" x="86.4" y="239.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="79.4" y="244.27207" transform="rotate(-0 79.4 244.27207)">30</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <path d="M 86.4 198.24 
+L 786.24 198.24 
+" clip-path="url(#pcd49b1f070)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m44927cdf66" x="86.4" y="198.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="79.4" y="203.11207" transform="rotate(-0 79.4 203.11207)">40</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <path d="M 86.4 157.08 
+L 786.24 157.08 
+" clip-path="url(#pcd49b1f070)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m44927cdf66" x="86.4" y="157.08" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="79.4" y="161.95207" transform="rotate(-0 79.4 161.95207)">50</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <path d="M 86.4 115.92 
+L 786.24 115.92 
+" clip-path="url(#pcd49b1f070)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.12; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m44927cdf66" x="86.4" y="115.92" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: end" x="79.4" y="120.79207" transform="rotate(-0 79.4 120.79207)">60</text>
+     </g>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="58.285234" y="239.4" transform="rotate(-90 58.285234 239.4)">条件股权估值（亿元）</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 118.210909 362.88 
+L 245.454545 362.88 
+L 245.454545 305.98659 
+L 118.210909 305.98659 
+z
+" clip-path="url(#pcd49b1f070)" style="fill: #8aa5aa"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 372.698182 362.88 
+L 499.941818 362.88 
+L 499.941818 236.46735 
+L 372.698182 236.46735 
+z
+" clip-path="url(#pcd49b1f070)" style="fill: #147d78"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 627.185455 362.88 
+L 754.429091 362.88 
+L 754.429091 155.06316 
+L 627.185455 155.06316 
+z
+" clip-path="url(#pcd49b1f070)" style="fill: #cb7b3b"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #192f3d" x="181.832727" y="301.87059" transform="rotate(-0 181.832727 301.87059)">13.82</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #192f3d" x="436.32" y="232.35135" transform="rotate(-0 436.32 232.35135)">30.71</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #192f3d" x="690.807273" y="150.94716" transform="rotate(-0 690.807273 150.94716)">50.49</text>
+   </g>
+  </g>
+  <g id="text_15">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #192f3d" x="51.84" y="35.28" transform="rotate(-0 51.84 35.28)">同一家示例公司，三组经营假设</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6d77" x="51.84" y="65.52" transform="rotate(-0 51.84 65.52)">教学假设｜同一估值日，下一年度利润 × 假定远期市盈率。</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #192f3d" x="90.72" y="433.44" transform="rotate(-0 90.72 433.44)">归母净利率：5.0% / 6.5% / 7.5%     假定远期市盈率：10 / 15 / 20 倍</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6d77" x="51.84" y="483.84" transform="rotate(-0 51.84 483.84)">全部为虚构企业教学参数｜情景区间反映假设变化，未分配概率。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcd49b1f070">
+   <rect x="86.4" y="115.92" width="699.84" height="246.96"/>
+  </clipPath>
+ </defs>
+</svg>

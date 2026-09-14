@@ -1,0 +1,26 @@
+1. 行业与竞争分析参考
+   https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/industry-and-competitive-analysis
+2. 文件任务说明
+   https://developers.openai.com/codex/artifacts-viewer
+3. 搜索说明
+   https://developers.openai.com/codex/web-search
+4. 巨潮资讯公告检索
+   https://www.cninfo.com.cn/new/fulltextSearch
+5. 国家统计局
+   https://www.stats.gov.cn/
+6. 国家数据
+   https://data.stats.gov.cn/
+7. 原始公报：表3及国内贸易部分
+   https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html
+8. 居民生活相关统计
+   https://www.stats.gov.cn/sj/sjjd/202606/t20260604_1963891.html
+9. 估值方法参考
+   https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/market-based-valuation-price-enterprise-value-multiples
+10. 技能说明
+   https://learn.chatgpt.com/docs/customization/overview#skills
+11. AI 与投资信息核验提醒
+   https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/artificial-intelligence-fraud
+12. 当前功能说明
+   https://developers.openai.com/codex/app/features
+13. 资产配置与风险相关说明
+   https://www.investor.gov/introduction-investing/getting-started/asset-allocation
